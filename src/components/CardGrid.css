@@ -1,0 +1,21 @@
+#widgets {
+    background-color: #ADD8E6;
+  }
+  
+.dark-mode #widgets {
+    background-color: #495057;
+  }
+
+
+.card {
+    background-color: blue;
+    color: black;
+    border-color: black;
+  }
+  
+.dark-mode .card {
+    background-color: #343a40;
+    color: white;
+    border-color: white;
+  }
+

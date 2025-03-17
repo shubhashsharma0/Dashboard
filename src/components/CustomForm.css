@@ -1,0 +1,7 @@
+#form {
+    background-color: #ADD8E6
+  }
+  
+.dark-mode #form{
+    background-color: #495057
+  }

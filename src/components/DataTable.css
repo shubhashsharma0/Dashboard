@@ -1,0 +1,7 @@
+#datatable {
+    background-color: #ADD8E6
+  }
+  
+.dark-mode #datatable {
+    background-color: #495057
+  }
